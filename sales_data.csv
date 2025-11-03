@@ -1,0 +1,10 @@
+Date,Product,Region,Sales,Profit
+2023-01-01,Apple,North,1200,300
+2023-01-03,Banana,East,800,200
+2023-01-05,Orange,South,600,150
+2023-01-07,Apple,West,950,250
+2023-01-09,Banana,North,1100,280
+2023-01-10,Orange,East,750,180
+2023-01-12,Apple,South,1300,350
+2023-01-14,Banana,West,900,220
+2023-01-15,Orange,North,1000,270
